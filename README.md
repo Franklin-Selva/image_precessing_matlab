@@ -1,6 +1,6 @@
 # image_processing_matlab
 
-This repository will contain the scripts for basic image processing operations using MATLAB
+This repository contains the scripts for basic image processing operations using MATLAB
 
 The following operations are implemented in this repo
 1. YCbCr2RGB Implementation
